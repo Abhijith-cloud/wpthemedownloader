@@ -1,6 +1,9 @@
 wpthemedownloader
 =================
 
+Just use svn svn co https://themes.svn.wordpress.org/
+
+
 This script downloads wordpress themes for vulnerability researching purposes
 Usage :
 
